@@ -1,0 +1,6 @@
+Cachés de dependencias, como es el caso del contenido de /node_modules o /packages.
+Código compilado como, por ejemplo, los archivos .o, .pyc y .class.
+Directorios de salida de compilación, como es el caso de /bin, /out o /target.
+Archivos generados en tiempo de ejecución como, por ejemplo, .log, .lock o .tmp.
+Archivos ocultos del sistema, como es el caso de .DS_Store o Thumbs.db.
+Archivos personales de configuración de IDE como, por ejemplo, .idea/workspace.xml.
